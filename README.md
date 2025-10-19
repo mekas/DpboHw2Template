@@ -9,6 +9,10 @@ NIM : ................
 4. Fill in the required section in the Readme
 5. This assignment is due October 20th, 23:55 AM
 
+# Features Implemented (list all completed)
+1. ...............
+2. 
+
 # Collaborators (The person you learned from)
 1. ..........
 
