@@ -1,1 +1,6 @@
-# DpboHw2Template
+Name: ................
+NIM : ................
+
+# Instruction
+1. Fill in your details
+2. 
